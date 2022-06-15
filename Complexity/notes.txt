@@ -1,0 +1,17 @@
+Time Complexity - the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm.
+
+Space Complexity - includes both Auxiliary space and space used by input, the total amount of memory space used by an algorithm/program, including the space of input values for execution.
+
+Primarily there are three types of Asymptotic notations to represent complexity:
+
+Big-Oh (O) notation - Worst Case
+Big Omega (Ω) notation - Best Case
+Big Theta (Θ) notation - Average Case
+
+recurrence relation of 2 types:
+Linear - like fibonacci
+divide and conquer - like merge sort
+
+to find complexity we can use :
+Masters Theorem 
+Akra Bazzi Theorem

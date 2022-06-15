@@ -1,43 +1,51 @@
 # Target
 
-> Starting Date: 11 june 2022
+> Starting Date: 13 june 2022
+
 ---
 
+## Day: _1 - 2_
 
-## Day: *1 - 2*
-- [ ] Basic Programming
-- [ ] Complexity Analysis
+- [x] Basic Programming
+- [x] Complexity Analysis
 
-## Day: *3 - 5*
+## Day: _3 - 5_
+
 - [ ] Arrays
 - [ ] Strings
 - [ ] Related Algorithm
 - [ ] Multidimensional Arrays
 
-## Day: *6 - 10*
+## Day: _6 - 10_
+
 - [ ] Recursion
 - [ ] Backtracking
 - [ ] Revision
 
-## Day: *11 - 13*
+## Day: _11 - 13_
+
 - [ ] Sorting
 - [ ] Binary Search
 
-## Day: *14 - 18*
+## Day: _14 - 18_
+
 - [ ] Linked Lists
 - [ ] Stacks and Queues
 
-## Day: *19 - 28*
+## Day: _19 - 28_
+
 - [ ] Trees
 - [ ] Binary Search Trees
 - [ ] Priority Queues
 - [ ] Heaps
 
-## Day: *29 - 38*
+## Day: _29 - 38_
+
 - [ ] Graphs
 - [ ] Dynamic Programming
 
-## Day: *39 - 45*
+## Day: _39 - 45_
+
 - [ ] Number Theory
 - [ ] Bit Manipulation
 - [ ] Tries
